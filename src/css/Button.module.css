@@ -1,0 +1,15 @@
+.buttonError {
+    color: rebeccapurple;
+    font-size: 20px;
+    background-color: transparent;
+    border: 0;
+}
+
+.buttonError :hover {
+    background: #000;
+}
+
+.buttonSucces {
+    color: green;
+    font-size: 20px;
+}
